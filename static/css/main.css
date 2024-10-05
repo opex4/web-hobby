@@ -44,7 +44,7 @@
         color: #333;
     }
     .comparison {
-        display: flex;
+        display: flexbox;
         justify-content: space-between;
         margin-bottom: 20px;
         background: white;
