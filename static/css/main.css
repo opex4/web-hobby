@@ -35,10 +35,9 @@
         margin-bottom: 10px;
     }
     .container {
-        width: 50%;
-        margin: 20px;
+        width: 60%;
+        margin: 10px;
         overflow: hidden;
-        padding: 20px;
     }
     h1, h2 {
         color: #333;
